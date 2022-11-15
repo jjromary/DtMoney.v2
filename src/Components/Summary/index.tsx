@@ -19,7 +19,7 @@ export function Summary() {
                     <ArrowCircleDown size={32} color='#f75a68' />
                 </header>
 
-                <strong>R$ 3.000,00</strong>
+                <strong>R$ 0</strong>
             </SummaryCard>
 
             <SummaryCard variant="green">
