@@ -15,6 +15,14 @@
       "category": "Veterinário",
       "price": 300,
       "createdAt": "2022-11-06T23:11:13.625Z"
+    },
+    {
+      "description": "Bingo",
+      "price": 800,
+      "category": "Jogo de azar",
+      "type": "income",
+      "createdAt": "2022-11-18T20:05:31.919Z",
+      "id": 3
     }
   ]
 }
